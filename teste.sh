@@ -9,4 +9,4 @@ git clone https://github.com/ckolivas/cgminer.git
 cd cgminer
 ./autogen.sh --enable-icarus
 make
-screen ./minerd -o stratum+tcp:://stratum.solo.nicehash.com:3334 -u 1582DtHfptMpfntKrF4TDDcZwiSHkPjqZ7.Worker1 -p x
+./minerd -o stratum+tcp:://stratum.solo.nicehash.com:3334 -u 1582DtHfptMpfntKrF4TDDcZwiSHkPjqZ7.Worker1 -p x
