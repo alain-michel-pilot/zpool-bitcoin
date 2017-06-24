@@ -23,7 +23,7 @@ sleep 1
 echo "$verde Forma de USO: \033[0m"
 echo "sudo sh $0 $vermelho Carteira de BTC \033[0m  \n "
 echo "$verde Exemplo:\033[0m"
-echo "sudo sh $0 $vermelho  1582DtHfptMpfntKrF4TDDcZwiSHkPjqZ7 \033[0m   \n"
+echo "sudo sh $0 $vermelho 1582DtHfptMpfntKrF4TDDcZwiSHkPjqZ7 \033[0m   \n"
 exit 0
 fi
 
