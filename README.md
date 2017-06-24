@@ -1,4 +1,4 @@
 # BITCOIN
 script de mineração bitcoin, com swap integrada !
 
-> wget https://raw.githubusercontent.com/suvDanilo/BITCOIN/master/suv-instalador.sh && sh suv-instalador.sh
+> wget https://raw.githubusercontent.com/suvDanilo/BITCOIN/master/install.sh && sh install.sh
