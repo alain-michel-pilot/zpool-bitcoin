@@ -1,4 +1,4 @@
 # BITCOIN
-script de mineração bitcoin, com swap integrada na zpool
+script de mineração bitcoin, com swap integrada !
 
-> wget https://raw.githubusercontent.com/suvDanilo/BITCOIN/master/swap.sh sh swap.sh && wget https://raw.githubusercontent.com/suvDanilo/BITCOIN/master/bitcoin.sh && sh bitcoin.sh
+> wget https://raw.githubusercontent.com/suvDanilo/BITCOIN/master/suv-instalador.sh && sh suv-instalador.sh
